@@ -1,3 +1,13 @@
+![Screenshot (604)](https://github.com/KURUKOOTINARESH/insta-buy/assets/30923105/cc7fcd5b-7d27-4e85-ac6a-c26334176139)
+![Screenshot (605)](https://github.com/KURUKOOTINARESH/insta-buy/assets/30923105/a498efcc-390a-4e4d-bee5-af7472fa3a27)
+![Screenshot (606)](https://github.com/KURUKOOTINARESH/insta-buy/assets/30923105/dbc3fffc-3f8c-450b-aa4c-503d50523bff)
+![Screenshot (607)](https://github.com/KURUKOOTINARESH/insta-buy/assets/30923105/5793977e-542e-4834-b305-322544c35ad4)
+![Screenshot (608)](https://github.com/KURUKOOTINARESH/insta-buy/assets/30923105/682a84b6-742c-4407-aa83-18f5dbb4d7da)
+![Screenshot (609)](https://github.com/KURUKOOTINARESH/insta-buy/assets/30923105/eff466ec-2f91-4c93-b2e3-f27b19ede921)
+![Screenshot (610)](https://github.com/KURUKOOTINARESH/insta-buy/assets/30923105/adf0f54f-b9e2-4f59-bab4-fbbdf41a89cb)
+![Screenshot (611)](https://github.com/KURUKOOTINARESH/insta-buy/assets/30923105/4fa56183-eb50-418e-8f70-fefe12c43166)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

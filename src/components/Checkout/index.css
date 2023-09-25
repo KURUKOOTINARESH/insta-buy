@@ -1,0 +1,10 @@
+.checkout-page{
+    padding: 3rem 7rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+}
+.checkout-img{
+    width: 20%;
+}

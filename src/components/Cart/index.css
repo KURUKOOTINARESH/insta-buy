@@ -1,0 +1,19 @@
+.cart-page{
+    padding: 3rem 7rem;
+    display: flex;
+}
+.cart-details-section{
+    width: 50%;
+}
+.cart-img-section{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.cart-page-img{
+    width: 70%;
+}
+.cart-table{
+    margin: 2rem 0;
+}

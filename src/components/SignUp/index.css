@@ -1,0 +1,58 @@
+.login-page{
+    background-color: rgb(33,106,217);
+    height: 88vh;
+    display: flex;
+}
+.mega-sale-img{
+    height: 80%;
+    width: 90%;
+}
+.mega-sale-img-con{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.login-content{
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 50%;
+    padding-left: 15rem;
+}
+h1{
+    font-weight: bold;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    margin: 0.5rem 0;
+    width: 90%;
+}
+form input{
+    border: 0;
+    outline: none;
+    padding: 0.5rem 1rem;
+    border-radius: 8px;
+    width: 100%;
+}
+.input-fields-con{
+    display: flex;
+    gap: 1rem;
+    margin: 1rem 0;
+}
+form span{
+    text-align: center;
+}
+.start-shopping-btn{
+    width: 100%;
+    background-color: transparent;
+    border: 2px solid white;
+    padding: 0.5rem 4rem;
+    color: white;
+    font-weight: 500;
+    margin: 1rem 0;
+}
+.click-here-text:hover{
+    cursor: pointer;
+}
